@@ -6,6 +6,6 @@ Web Crawler designed in python. Sometimes called a spider or spiderbot and often
 ## Install
 
 ```
-git clone https://github.com/ANANT555/P01-Website_Crawler.git
+git clone https://github.com/Cru-zen/P01-Website_Crawler.git
 ```
 
